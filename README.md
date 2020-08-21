@@ -11,8 +11,8 @@
 
 ## Details of Contributors:-
 
-* Nikhil Nishad
-* Rishi Kumar (lavinianikhil@gmail.com)
+* Nikhil Nishad(lavinianikhil@gmail.com)
+* Rishi Kumar
 * Zaid Kamil ( Mentor )  (https://github.com/zaid-kamil)
 
 ## Under The Guidance:-
